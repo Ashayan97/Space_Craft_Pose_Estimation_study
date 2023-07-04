@@ -18,4 +18,7 @@ Data are available from this [link](https://zenodo.org/record/6327547#.Yxn6iHbP2
 Mask Data Location: Datasets/speed/synthetic/masks/ 
 
 Key Points: Datasets/speed/synthetic/keypoint3D.mat
-(Key Points are available in materials file)
+(Key Points are available in the materials file)
+
+You can check the complete information related to this project from the following document: [link](https://drive.google.com/file/d/1ECqlb9-cyH2UHYbXarhBRWd2yD_CAqit/view?usp=sharing).
+
