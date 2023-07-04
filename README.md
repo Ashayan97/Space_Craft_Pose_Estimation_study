@@ -24,3 +24,5 @@ Key Points: Datasets/speed/synthetic/keypoint3D.mat
 
 You can check the complete information related to this project from the following document: [link](https://drive.google.com/file/d/1ECqlb9-cyH2UHYbXarhBRWd2yD_CAqit/view?usp=sharing).
 
+[1] T. H. Park and S. D’Amico, “Robust multi-task learning and online refinement for spacecraft pose estimation across domain gap,” arXiv preprint arXiv:2203.04275, 2022.
+
