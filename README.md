@@ -22,7 +22,7 @@ Mask Data Location: Datasets/speed/synthetic/masks/
 Key Points: Datasets/speed/synthetic/keypoint3D.mat
 (Key Points are available in the materials file)
 
-You can check the complete information related to this project from the following document: [link](https://drive.google.com/file/d/1ECqlb9-cyH2UHYbXarhBRWd2yD_CAqit/view?usp=sharing).
+You can check the complete information related to this project from the following document: [link](https://drive.google.com/file/d/1hbztOQHh2NEptIZqRc4bygs9t6zUWbib/view?usp=drive_link).
 
 [1] T. H. Park and S. D’Amico, “Robust multi-task learning and online refinement for spacecraft pose estimation across domain gap,” arXiv preprint arXiv:2203.04275, 2022.
 
